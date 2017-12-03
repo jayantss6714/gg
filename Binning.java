@@ -122,7 +122,7 @@ for(int i=0;i<div;i++)
 			System.out.println(" "+arr1[i][j]);
 
 		}
-		System.out.println("\n");
+		System.out.println("\n                ---------");
 	}
 return arr1;
 }
