@@ -37,7 +37,7 @@ public static void main(String[]args)
 		{
 			r[i][j]=res[i][j];
 		}
-	}
+	}//end
 	int[][] res_boundary=b.equiBoundary(res,div,width);
 	int[][] res_mean=b.equiMean(r,div,width);
 }
